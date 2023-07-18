@@ -6,7 +6,7 @@ on:
     branches:
       - main
       - 'releases/*'
-//change
+
 jobs:
   qodana:
     runs-on: ubuntu-latest
